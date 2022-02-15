@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 :flushed: 私人博客：https://ypinchina.github.io/blog/ 
 
+🏴 思否： https://segmentfault.com/u/ypinchina
+
