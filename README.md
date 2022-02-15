@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:love_letter: leetcode: https://leetcode-cn.com/u/ypinchina/
+:star: 技术博客: https://www.cnblogs.com/ypinchina/
+:flushed: 私人博客：https://ypinchina.github.io/blog/
