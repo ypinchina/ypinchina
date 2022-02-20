@@ -19,7 +19,5 @@ Here are some ideas to get you started:
 
 :star: 技术博客: https://www.cnblogs.com/ypinchina/ 
 
-:flushed: 私人博客：https://ypinchina.github.io/blog/ 
-
 🏴 思否： https://segmentfault.com/u/ypinchina
 
