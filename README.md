@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 -->
 
 :love_letter: leetcode: https://leetcode-cn.com/u/ypinchina/ 
-<div style="display:none">
-:star: 技术博客: https://www.cnblogs.com/ypinchina/ 
-
-🏴 思否： https://segmentfault.com/u/ypinchina
-</div>
