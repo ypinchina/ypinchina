@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+😄 我的github主要保存自己个人博客，以前自己学习过的项目，一些知识小册提炼的重点笔记，算法记录等  
+🌱 最近在学习算法与数学  
 :love_letter: leetcode: https://leetcode-cn.com/u/ypinchina/ 
+🔭 2023完成的事情：  
+1. 学习软考高项知识内容并参与上半年的考试  
+2. 学习react基础以及hooks相关知识  
+3. 开始学习《代码随想录》  
+4. 5小时完成白云山上山及下山  
+
