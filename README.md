@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 1. 学习软考高项知识内容并参与上半年的考试  
 2. 学习react基础以及hooks相关知识  
 3. 学习《代码随想录》  
-4. 系统学习mysql  
    
 🔭 2024年计划  
-1. 学习数学  
-2. vue3源码、react源码学习  
-3. 学习go  
+* 学习数学  
+* vue3源码、react源码学习  
+* 学习go  
