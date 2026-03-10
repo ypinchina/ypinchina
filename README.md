@@ -16,13 +16,9 @@ Here are some ideas to get you started:
 -->
 😄 我的github主要保存自己个人博客，以前自己学习过的项目，一些知识小册提炼的重点笔记，leetcode代码，面试归纳总结等  
  
-⚡ leetcode: https://leetcode-cn.com/u/ypinchina/  
-🔭 2023完成的事情：  
-1. 学习软考高项知识内容并参与上半年的考试  
-2. 学习react基础以及hooks相关知识  
-3. 学习《代码随想录》  
-   
-🔭 2024年计划  
-* 学习数学  
-* vue3源码、react源码学习  
-* 学习go  
+⚡ leetcode: https://leetcode-cn.com/u/ypinchina/   
+🔭 2026年计划  
+* 股票回本  
+* 换公司 
+* 学习nestJs, 全栈开发
+* 学习agent, n8n,  langchain等 AI相关技术  
